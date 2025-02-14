@@ -6,7 +6,16 @@ RANDRIANJAFIENIARIVO Tojo Fandresana, IGGLIA 4, n°27
 RAKOTOMANGA Harijaona, IGGLIA 4, n°43
 FIATOA Tovomanandrafale, ESIIA 4 , n°26
 
-lien
+rôle :
+partie 1 et 2:
+  - ANDRIAMANANTSOA Tiavina Rollando, IGGLIA 4, n°08
+  - RANDRIANJAFIENIARIVO Tojo Fandresana, IGGLIA 4, n°27
+  - RAKOTOMANGA Harijaona, IGGLIA 4, n°43
+
+partie 3:
+  - ANDRIAMANARINTSOA Fenohasina Zianah, ESIIA 4, n°02
+  - FIATOA Tovomanandrafale, ESIIA 4 , n°26
+
 patie 3 question n2: 
 Pour que le modèle reconnaisse mieux les moments où un joueur est sur le point de gagner ou de perdre, voici deux améliorations importantes :
 
